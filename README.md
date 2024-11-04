@@ -14,4 +14,4 @@
 
 ##### Lista De Tareas, eliminadas
 
-##### Lista De Tareas, eliminadas(/src/imagenes/Captura4.png)
+##### ![Lista De Tareas, eliminadas](/src/imagenes/Captura4.png)
